@@ -9,7 +9,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #EECCFF;
 }
 .calculator{
     height: 95vh;
@@ -17,7 +16,7 @@ body{
     padding: 20px;
     border-radius: 13px;
     background: white;
-    box-shadow: 0px 3px 15px rgba(100, 128, 182, 0.5);
+    box-shadow: 5px 10px 35px rgba(100, 128, 182, 0.5);
 }
 input{
     width: 320px;
