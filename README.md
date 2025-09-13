@@ -1,2 +1,2 @@
 # Calculator
-Interactive calculator using HTML structure, CSS styling, and JavaScript functionality.
+Created a Calculator using HTML, CSS and Javascript.
